@@ -4,8 +4,12 @@ ETL pipeline для обработки данных с использовани�
 
 
 # Создайте и запустите виртуальное окружение
-```bash python -m venv venv```
-```bash source venv/Scripts/activate```
+```bash 
+python -m venv venv
+```
+```bash
+source venv/Scripts/activate
+```
 
 # Запуск
 
