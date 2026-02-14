@@ -3,9 +3,9 @@
 ETL pipeline для обработки данных с использованием Spark, Pandas и MinIO.
 
 
-# Создайте виртуальное окружение
-python -m venv venv
-source venv/Scripts/activate
+# Создайте и запустите виртуальное окружение
+```bash python -m venv venv```
+```bash source venv/Scripts/activate```
 
 # Запуск
 
